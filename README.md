@@ -1,4 +1,6 @@
-# intallation
+# about
+this project create to be backe end of flutter app
+## intallation
 - after clone the project  change the name of __.env.example__ to __.env__
 -  cd to the directory of the project
 - install compser on the project 
