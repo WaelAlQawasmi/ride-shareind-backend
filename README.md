@@ -6,6 +6,9 @@ this project create to be backe end of flutter app
 - install compser on the project 
 
 > composer install
+# incase use windows 
+> composer self-update --1
+
 
 - create a new database and get the name of it and the username and password of it and put on __.env__
 - build the tables
