@@ -6,7 +6,7 @@ this project create to be backe end of flutter app
 - install compser on the project 
 
 > composer install
-# incase use windows 
+- __incase use windows__ 
 > composer self-update --1
 
 
